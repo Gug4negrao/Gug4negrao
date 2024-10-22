@@ -16,8 +16,8 @@
 - C++
 
 # 🔍 Onde me encontrar
-- [LinkedIn](www.linkedin.com/in/gustavo-negrão)
-- [Instagram](https://www.instagram.com./gug4_negrao/profilecard/?igsh=MXUwbnNmajgwc2cxdg==)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-negrão)
+- [Instagram](https://www.instagram.com/gug4_negrao/profilecard/?igsh=MXUwbnNmajgwc2cxdg==)
 - [Gmail](guieguganegrao@gmail.com)
 
 ## Entre em Contato
