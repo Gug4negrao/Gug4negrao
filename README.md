@@ -1,14 +1,3 @@
-👋 Olá, mundo, eu sou Gustavo Negrão!
-🎓 Sou técnico em Desenvolvimento de Sistemas e estudante de Sistemas para Internet na Fatec Rubens Lara.
-🤓 Estou sempre buscando aprender algo novo para aprimorar meus conhecimentos e desenvolver ainda mais minhas habilidades em tecnologia.
-👩‍💻 Skills:
-Linguagens
-HTML5 Badge CSS3 Badge JavaScript Badge
-IDE
-Visual Studio Code Badge
-🔍 Onde me encontrar
-LinkedIn Badge Instagram Badge Gmail Badge
-
 # 👋 Olá, mundo, eu sou Gustavo Negrão!
 ## 🎓 Sou técnico em Desenvolvimento de Sistemas e estudante de Sistemas para Internet na Fatec Rubens Lara.
 ## 💻 Desenvolvedor FullStack da Numax
