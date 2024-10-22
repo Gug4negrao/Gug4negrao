@@ -24,9 +24,9 @@
 - C++
 
 # 🔍 Onde me encontrar
-<a href="https://www.linkedin.com/in/gustavo-negrão" style="display: inline-block; padding: 10px 15px; margin: 5px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">LinkedIn</a>
-<a href="https://www.instagram.com/gug4_negrao/profilecard/?igsh=MXUwbnNmajgwc2cxdg==" style="display: inline-block; padding: 10px 15px; margin: 5px; background-color: #E1306C; color: white; text-decoration: none; border-radius: 5px;">Instagram</a>
-<a href="mailto:guieguganegrao@gmail.com" style="display: inline-block; padding: 10px 15px; margin: 5px; background-color: #D14836; color: white; text-decoration: none; border-radius: 5px;">Gmail</a>
+<a href="https://www.linkedin.com/in/gustavo-negrão" style="display: inline-block; padding: 10px 15px; margin: 5px; background-color: blue; color: white; text-decoration: none; border-radius: 5px;">LinkedIn</a>
+<a href="https://www.instagram.com/gug4_negrao/profilecard/?igsh=MXUwbnNmajgwc2cxdg==" style="display: inline-block; padding: 10px 15px; margin: 5px; background-color: pink; color: white; text-decoration: none; border-radius: 5px;">Instagram</a>
+<a href="mailto:guieguganegrao@gmail.com" style="display: inline-block; padding: 10px 15px; margin: 5px; background-color: red; color: white; text-decoration: none; border-radius: 5px;">Gmail</a>
 
 ## Entre em Contato
 Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais ou enviar um e-mail.
