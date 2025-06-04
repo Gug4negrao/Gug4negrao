@@ -11,20 +11,23 @@
 - Estou sempre buscando aprender algo novo para aprimorar meus conhecimentos e desenvolver ainda mais minhas habilidades em tecnologia.
 
 # 👩‍💻 Skills:
-## Linguagens
-- HTML
-- CSS
+- HTML/CSS
 - JavaScript
-- C#
-- SQL
+- TypeScript
 - AngularJS
+- Bootstrap
+- C#
+- Asp.Net
+- MySQL
+- SQL Server
 
 ## Em aprendizagem
 - Angular
 - C++
 
 # 🔍 Onde me encontrar
-- [🔗 LinkedIn](https://www.linkedin.com/in/gustavo-negrão)
+- [🔗 Meu Site](https://gustavo-negrao-vilaronga.vercel.app)
+- [👨‍💻 LinkedIn](https://www.linkedin.com/in/gustavo-negrão)
 - [📸 Instagram](https://www.instagram.com/gug4_negrao/profilecard/?igsh=MXUwbnNmajgwc2cxdg==)
 - [✉️ Gmail](mailto:guieguganegrao@gmail.com)
 
