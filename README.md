@@ -26,7 +26,7 @@
 - C++
 
 # 🔍 Onde me encontrar
-- [🔗 Meu Site](https://gustavo-negrao-vilaronga.vercel.app)
+- [🔗 Meu Site](https://gustavo-vilaronga.com.br)
 - [👨‍💻 LinkedIn](https://www.linkedin.com/in/gustavo-negrão)
 - [📸 Instagram](https://www.instagram.com/gug4_negrao/profilecard/?igsh=MXUwbnNmajgwc2cxdg==)
 - [✉️ Gmail](mailto:guieguganegrao@gmail.com)
