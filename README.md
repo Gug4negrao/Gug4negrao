@@ -1,4 +1,4 @@
-# 👋 Olá, mundo, eu sou Gustavo Negrão!
+# 👋 Olá, mundo, eu sou Gustavo Vilaronga!
 
 ## 🎓 Formação
 - Técnico em Desenvolvimento de Sistemas
@@ -14,16 +14,15 @@
 - HTML/CSS
 - JavaScript
 - TypeScript
+- Angular
 - AngularJS
 - Bootstrap
+- Tailwind
 - C#
 - Asp.Net
 - MySQL
 - SQL Server
 
-## Em aprendizagem
-- Angular
-- C++
 
 # 🔍 Onde me encontrar
 - [🔗 Meu Site](https://gustavo-vilaronga.com.br)
