@@ -26,7 +26,7 @@
 
 # 🔍 Onde me encontrar<p align="center">
   <a href="https://gustavo-vilaronga.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Meu%20Site-blue?style=for-the-badge" alt="Site">
+    <img src="https://img.shields.io/badge/🔗%20Meu%20Site-light?style=for-the-badge" alt="Site">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-negrão" target="_blank">
     <img src="https://img.shields.io/badge/👨‍💻%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
