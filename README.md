@@ -25,7 +25,7 @@
 
 
 # 🔍 Onde me encontrar
-<p align="center">
+<p>
   <a href="https://gustavo-vilaronga.com.br" target="_blank">
     <img src="https://img.shields.io/badge/🔗%20Meu%20Site-6f42c1?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Meu Site">
   </a>
