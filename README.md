@@ -1,14 +1,8 @@
 # 👋 Olá, mundo, eu sou Gustavo Vilaronga!
 
-## 🎓 Formação
+# 🎓 Formação
 - Técnico em Desenvolvimento de Sistemas
 - Estudante de Sistemas para Internet na Fatec Rubens Lara
-
-## 💻 Experiência
-- Desenvolvedor FullStack na Numax
-
-## 🤓 Filosofia
-- Estou sempre buscando aprender algo novo para aprimorar meus conhecimentos e desenvolver ainda mais minhas habilidades em tecnologia.
 
 # 👩‍💻 Skills:
 - HTML/CSS
@@ -19,6 +13,8 @@
 - Bootstrap
 - Tailwind
 - C#
+- Java
+- PHP
 - Asp.Net
 - MySQL
 - SQL Server
