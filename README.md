@@ -1,23 +1,26 @@
 # 👋 Olá, mundo, eu sou Gustavo Vilaronga!
 
 # 🎓 Formação
-- Técnico em Desenvolvimento de Sistemas
-- Estudante de Sistemas para Internet na Fatec Rubens Lara
-
+- <b>Estudante de Sistemas para Internet</b> na Fatec Rubens Lara
+- <b>Técnico em Desenvolvimento de Sistemas</b> na Etec Aristóteles Ferreira
+  
 # 👩‍💻 Skills:
-- HTML/CSS
-- JavaScript
-- TypeScript
-- Angular
-- AngularJS
-- Bootstrap
-- Tailwind
-- C#
-- Java
-- PHP
-- Asp.Net
-- MySQL
-- SQL Server
+*Frontend
+**HTML/CSS
+**JavaScript
+**TypeScript
+**Angular
+**AngularJS
+**Bootstrap
+**Tailwind
+*Backend
+**C#
+**Java
+**PHP
+**Asp.Net
+*Bancos de Dados
+**MySQL
+**SQL Server
 
 
 # 🔍 Onde me encontrar
