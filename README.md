@@ -5,22 +5,22 @@
 - <b>Técnico em Desenvolvimento de Sistemas</b> na Etec Aristóteles Ferreira
   
 # 👩‍💻 Skills:
--Frontend
-  -HTML/CSS
-  -JavaScript
-  -TypeScript
-  -Angular
-  -AngularJS
-  -Bootstrap
-  -Tailwind
--Backend
-  -C#
-  -Java
-  -PHP
-  -Asp.Net
--Bancos de Dados
-  -MySQL
-  -SQL Server
+- <b>Frontend</b>
+  - HTML/CSS
+  - JavaScript
+  - TypeScript
+  - Angular
+  - AngularJS
+  - Bootstrap
+  - Tailwind
+- <b>Backend</b>
+  - C#
+  - Java
+  - PHP
+  - Asp.Net
+- <b>Bancos de Dados</b>
+  - MySQL
+  - SQL Server
 
 
 # 🔍 Onde me encontrar
