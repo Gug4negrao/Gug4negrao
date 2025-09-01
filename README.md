@@ -6,21 +6,21 @@
   
 # 👩‍💻 Skills:
 *Frontend
-**HTML/CSS
-**JavaScript
-**TypeScript
-**Angular
-**AngularJS
-**Bootstrap
-**Tailwind
+*HTML/CSS
+*JavaScript
+*TypeScript
+*Angular
+*AngularJS
+*Bootstrap
+*Tailwind
 *Backend
-**C#
-**Java
-**PHP
-**Asp.Net
+*C#
+*Java
+*PHP
+*Asp.Net
 *Bancos de Dados
-**MySQL
-**SQL Server
+*MySQL
+*SQL Server
 
 
 # 🔍 Onde me encontrar
